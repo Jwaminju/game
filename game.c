@@ -1,6 +1,5 @@
 /*Viking's Swing
-게임 설명: 그네를 타고 펼쳐지는 대결 구도 아래, 적의 기지를 파괴하라.
-창의적 설계 04분반 20190912 좌민주*/
+게임 설명: 그네를 타고 펼쳐지는 대결 구도 아래, 적의 기지를 파괴하라.*/
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning (disable : 4996)
 #include <stdio.h>
